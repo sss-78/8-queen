@@ -1,0 +1,1 @@
+This is an simulation attempt of the n-queens problem - where this code is an emulation for a 8x8 board.
